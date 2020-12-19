@@ -53,3 +53,13 @@ button {
   color: white;
   padding: 8px;
 }
+
+#weather {
+  position: relative;
+}
+
+#weather img {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
